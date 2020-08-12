@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="prefijo_fondo">
+    <file>fondo.jpeg</file>
+  </qresource>
+</RCC>

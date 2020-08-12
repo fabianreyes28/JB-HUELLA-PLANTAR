@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="prefijo_siguiente">
+    <file>otravez.png</file>
+  </qresource>
+</RCC>
